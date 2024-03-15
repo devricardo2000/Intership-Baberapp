@@ -1,4 +1,4 @@
-# Intership-Baberapp
+# Intership-Barber-app
 During my ISEP internship, I developed a project using CodeIgniter where users can choose from various haircut options and schedule appointments, after doing that they can choose which person the want has their barber.
 
 # 🌟 Installation 🌟
